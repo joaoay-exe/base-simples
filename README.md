@@ -3,7 +3,7 @@ Está base foi especifica para quem não sabe programar, espero que gostem.
 
 
 # Como posso criar um comando ?
-**Va na na pasta "Comandos" e crie outra pasta dentro com nome de sua preferencia em seguida crie o arquivo com nome de sua preferencia.**
+**Vá na na pasta "Comandos" e crie outra pasta dentro com nome de sua preferencia em seguida crie o arquivo com nome de sua preferencia.**
 
 **Exemplo:**
 ```js
